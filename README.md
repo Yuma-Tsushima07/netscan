@@ -12,7 +12,7 @@ We are not responsible for any damages done with *"Netscan"*, use wisely.
 
 ## Installation 
  * Clone this repo using
-``git clone https://github.com/Yuma-Tsushima076bec/netscan.git``
+``git clone https://github.com/Yuma-Tsushima07/netscan.git``
 
  * First use 
  ``pkg update && pkg upgrade``.
