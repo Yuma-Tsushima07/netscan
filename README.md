@@ -19,5 +19,5 @@ We are not responsible for any damages done with *"Netscan"*, use wisely.
 * Install nmap using 
  ``pkg install nmap``.
 * Finally run the script using
-``bash nscript.sh``
+``bash scan.sh``
 
